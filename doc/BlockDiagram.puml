@@ -1,0 +1,34 @@
+@startuml
+
+package "MCU" {
+  [ESP32 Output] 
+}
+
+package "DAC" {
+  [MCP48CXDC1] 
+}
+
+package "FilterStage" {
+    package "Amp1 - Single Supply" {
+    [MCP6001_1] 
+  }
+
+  [ES2 Lab Circuit] 
+
+    package "Amp2 - Single Supply" {
+    [MCP6001_2] 
+  }
+}
+
+package "Power Amp Stage" {
+  [TPA711] 
+}
+
+[ESP32 Output]  -right->   [MCP48CXDC1]: Bluetooth Signal Conversion 
+[MCP48CXDC1]    -->         [FilterStage]: Signal Amplification
+[MCP6001_1]     -->   [ES2 Lab Circuit]: Filtering 
+[ES2 Lab Circuit]   -->   [MCP6001_2]: Signal Amplification
+[MCP6001_2]     -right->   [TPA711]: Power Amplification with AUX/Speaker send
+[DAC] -right-> [TPA711]: Unfiltered Signal 
+
+@enduml

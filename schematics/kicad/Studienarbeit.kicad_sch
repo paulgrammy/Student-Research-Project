@@ -5239,7 +5239,7 @@
 	)
 	(text "AMPLIFICATION STAGE I"
 		(exclude_from_sim no)
-		(at 208.788 142.748 0)
+		(at 208.28 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6706,7 +6706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-WROOM-32D"
+		(property "Footprint" "RF_Module:ESP32-WROOM-32E"
 			(at 57.15 200.66 0)
 			(effects
 				(font
@@ -7765,7 +7765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:Texas_DRB0008A"
+		(property "Footprint" "Package_SO:Texas_DGN0008D_VSSOP-8-1EP_3x3mm_P0.65mm_EP2x2.94mm_Mask1.57x1.89mm"
 			(at 373.38 121.92 0)
 			(effects
 				(font

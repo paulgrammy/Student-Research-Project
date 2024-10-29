@@ -7025,7 +7025,7 @@
 		(descr "SMD rectangular pad as test Point, square 1.5mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP_GND_ESP32"
-			(at 0 -1.648 360)
+			(at 0 -1.648 0)
 			(layer "F.SilkS")
 			(uuid "63409b8f-57fe-47c8-8b9c-ef838ca8cc4e")
 			(effects
@@ -7036,7 +7036,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 0 1.75 360)
+			(at 0 1.75 0)
 			(layer "F.Fab")
 			(uuid "f2e146fe-c9a9-40a0-8a54-5e6b00343bc4")
 			(effects
@@ -7171,7 +7171,7 @@
 			(uuid "73445b3f-3f75-456f-ae30-5af76cf54914")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.65 360)
+			(at 0 -1.65 0)
 			(layer "F.Fab")
 			(uuid "f0ca2351-ae5b-4f59-b939-7ba06e0e7e5a")
 			(effects

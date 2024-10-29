@@ -3584,6 +3584,12 @@
 		(uuid "51fef7c5-de70-4cfb-b497-84c8eb934a0e")
 	)
 	(junction
+		(at 269.24 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5221f5e7-88b6-4116-a9a9-77a61ddb06c2")
+	)
+	(junction
 		(at 81.28 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3672,12 +3678,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95746ffa-b5c3-44bc-bed8-d56f188cfed9")
-	)
-	(junction
-		(at 269.24 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "988eabed-68cd-4f93-8c28-9c71457ad706")
 	)
 	(junction
 		(at 375.92 175.26)
@@ -7494,6 +7494,74 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 274.32 109.22 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d0c7043-aad8-4280-a16d-99b77d32472b")
+		(property "Reference" "JP3"
+			(at 274.32 106.172 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Open"
+			(at 274.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
+			(at 274.32 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 274.32 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29d7cf53-d00f-4b6b-aa99-d0b437959bc0")
+		)
+		(pin "2"
+			(uuid "2132e9bc-f4ca-46fa-b02c-db580c32cabe")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -12893,74 +12961,6 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 274.32 109.22 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cdb50485-c4e6-4345-a038-ab008d52cd3c")
-		(property "Reference" "JP?"
-			(at 274.32 106.172 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Open"
-			(at 274.32 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 274.32 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 274.32 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 274.32 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ae416275-b362-44b4-8588-6ee900a275e3")
-		)
-		(pin "2"
-			(uuid "68494e4f-d340-46c0-8e16-adebc5337ce1")
-		)
-		(instances
-			(project ""
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "JP?")
 					(unit 1)
 				)
 			)

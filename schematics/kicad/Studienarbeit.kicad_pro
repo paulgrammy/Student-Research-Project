@@ -58,7 +58,14 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|227250000|38682000|739d1fd7-4a44-4592-87e0-196fb1cd2969|6497db46-13f2-4acc-a33e-8e37a0aa3054",
+        "clearance|227250000|39682000|185bcd5b-f09d-405e-b8b7-c259681f1b15|6497db46-13f2-4acc-a33e-8e37a0aa3054",
+        "clearance|228650000|38682000|4ae238a8-63da-4130-b4a0-f37866366ab0|6497db46-13f2-4acc-a33e-8e37a0aa3054",
+        "clearance|228650000|39682000|d1fee932-e1ec-4b69-9ac5-4e1ca6004ba9|6497db46-13f2-4acc-a33e-8e37a0aa3054",
+        "clearance|229950000|38682000|ac322c56-40de-4d27-96ee-fe3dfd9519a9|6497db46-13f2-4acc-a33e-8e37a0aa3054",
+        "clearance|229950000|39682000|a4563ea0-a7e6-4eee-b29a-0cc4b7d7d686|6497db46-13f2-4acc-a33e-8e37a0aa3054"
+      ],
       "meta": {
         "version": 2
       },
@@ -575,13 +582,91 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Purchase-URL",
+          "name": "Purchase-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_Mouser",
+          "name": "OC_Mouser",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_Digikey",
+          "name": "OC_Digikey",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "name": "",
+      "sort_asc": false,
+      "sort_field": "Value"
     },
     "connection_grid_size": 50.0,
     "drawing": {

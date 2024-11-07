@@ -1,11 +1,15 @@
 @startuml
 
-package "MCU" {
-  [ESP32 Output] 
+package "LDO" {
+  [LM2940CT]
 }
 
-package "DAC" {
-  [MCP48CXDC1] 
+package "MCU" {
+  [ESP32 I2S Pins] 
+}
+
+package "Codec" {
+  [PCM5102] 
 }
 
 package "FilterStage" {
@@ -24,11 +28,12 @@ package "Power Amp Stage" {
   [TPA711] 
 }
 
-[ESP32 Output]  -right->   [MCP48CXDC1]: Bluetooth Signal Conversion 
-[MCP48CXDC1]    -->         [FilterStage]: Signal Amplification
+[LM2940CT] -right-> [ESP32 I2S Pins]: stable 5V
+[ESP32 I2S Pins]  -right->   [Codec]: Bluetooth Signal Conversion 
+[Codec]    -->         [FilterStage]: Signal Amplification
 [MCP6001_1]     -->   [ES2 Lab Circuit]: Filtering 
 [ES2 Lab Circuit]   -->   [MCP6001_2]: Signal Amplification
 [MCP6001_2]     -right->   [TPA711]: Power Amplification with AUX/Speaker send
-[DAC] -right-> [TPA711]: Unfiltered Signal 
+[Codec] --> [TPA711]: Unfiltered Signal 
 
 @enduml

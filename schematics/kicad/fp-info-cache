@@ -1,4 +1,4 @@
-23844820110283233
+23846551009769847
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94750,6 +94750,13 @@ REDCUBE THR with internal through-hole thread WP-THRSH (https://www.we-online.de
 screw terminal thread redcube thr power connector
 0
 18
+1
+TestPoint
+FestoBoard_Drill_Hole
+THT rectangular pad as test Point, square 2.0mm_Drill1.0mm  side length, hole diameter 1.0mm
+test point THT pad rectangle square
+0
+1
 1
 TestPoint
 TestPoint_2Pads_Pitch2.54mm_Drill0.8mm

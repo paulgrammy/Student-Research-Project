@@ -6724,7 +6724,7 @@
 	)
 	(text "LM2940CT"
 		(exclude_from_sim no)
-		(at 27.686 53.594 0)
+		(at 27.686 61.214 0)
 		(effects
 			(font
 				(size 1.27 1.27)

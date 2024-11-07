@@ -1,0 +1,39 @@
+* C:\Users\Paul\Documents\Student-Research-Project-\schematics\ltspice\Student Research.asc
+RG1 N002 IC 100k
+RF1 N003 N002 5k
+V1 5V 0 5
+R3 N008 5V 10k
+XU1 N008 N002 5V 0 N003 MCP6001
+R4 0 N008 10k
+C1 N008 Vin {C}
+V3 Vin 0 SINE(0 2 5k) AC 1
+C2 IC 0 {C}
+R5 0 N007 10k
+R6 5V N007 10k
+C4 IC 0 {C}
+RG2 N004 IC 100k
+RF2 N005 N004 5k
+C3 N007 ES2_Filter {C}
+XU2 N007 N004 5V 0 N005 MCP6001
+XU3 N005 Vout 5V 0 Vout MCP6001
+C6 N001 N003 10µF
+R1 N001 0 100k
+R7 N001 ES2_Filter 1k
+R2 N001 ES2_Filter 10k
+.tran 0 50ms 0 100
+.inc MCP6001.lib
+.param C=10uF
+* .ac dec 20 1 1Meg
+* Power Supply
+* Extras
+* Simulations
+* Formulas
+* Vout = Vin * [(RF + RG)/RG] + (Vcc/2) * [(RF+RG)/RG]
+.ic V(IC) = 0
+;.options ptrantau=1u
+;.option cshunt=1e-12
+;.option gmin=1e-10 abstol=1e-10 reltol=0.003
+* .tran 0 100ms 0 100
+.lib MCP6001.lib
+.backanno
+.end

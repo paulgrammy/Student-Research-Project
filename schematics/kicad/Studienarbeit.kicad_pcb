@@ -2910,7 +2910,7 @@
 		(uuid "2c36e7dc-7116-48bb-b1cb-8c55250e41ca")
 		(at 274.55 85.15 180)
 		(property "Reference" "J9"
-			(at 0.2243 -6.57451 360)
+			(at 0.2243 -6.57451 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5645c98c-c978-4af4-8c22-a876726b4744")
@@ -2922,7 +2922,7 @@
 			)
 		)
 		(property "Value" "SJ2-35853B-SMT-TR"
-			(at 10.56959 6.14527 360)
+			(at 10.56959 6.14527 0)
 			(layer "F.Fab")
 			(uuid "585aa7a3-566f-4691-906f-a21502130d1e")
 			(effects
@@ -2933,7 +2933,7 @@
 			)
 		)
 		(property "Footprint" "SJ2-35853B-SMT-TR:CUI_SJ2-35853B-SMT-TR"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d8b140a-3236-4ed0-b9f9-e139a7c03bb5")
@@ -2945,7 +2945,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "74cd3918-4dfd-4dad-861b-9aea7d35e363")
@@ -2957,7 +2957,7 @@
 			)
 		)
 		(property "Description" "Mouser: 490-SJ2-35853BSMT-TR"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "07e849a6-1640-43bd-a633-b0eea9ec95a6")
@@ -3454,7 +3454,7 @@
 			(uuid "c32a7097-c8cc-4916-8631-1f81386dbf28")
 		)
 		(fp_text user "PCB EDGE"
-			(at -6.30747 -5.61121 360)
+			(at -6.30747 -5.61121 0)
 			(layer "F.Fab")
 			(uuid "b42a7cdd-4ca2-469b-8040-ac42e44a1544")
 			(effects

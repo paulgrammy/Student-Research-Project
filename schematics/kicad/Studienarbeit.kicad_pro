@@ -695,6 +695,12 @@
           "label": "PARTREV",
           "name": "PARTREV",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Double Checked",
+          "name": "Double Checked",
+          "show": true
         }
       ],
       "filter_string": "",

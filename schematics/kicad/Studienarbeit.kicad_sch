@@ -7790,6 +7790,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 265.43 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d79d377-dda4-4484-92cc-17a435ad89d3")
 		)
@@ -7874,6 +7883,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 341.63 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 341.63 134.62 0)
 			(effects
 				(font
@@ -7968,6 +7986,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 241.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 241.3 121.92 0)
 			(effects
 				(font
@@ -8073,6 +8100,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 241.3 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73098833-436f-4bcc-a0be-72a3295ca412")
 		)
@@ -8162,6 +8198,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 148.59 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 148.59 179.07 0)
 			(effects
 				(font
@@ -8264,6 +8309,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 323.85 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ebc8bd2f-bbd4-438c-b9ae-a0f830a793d3")
 		)
@@ -8350,6 +8404,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 240.03 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 240.03 203.2 0)
 			(effects
 				(font
@@ -8520,6 +8583,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 186.69 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dae63071-bc2f-4fc8-a59d-dc6050720e92")
 		)
@@ -8678,6 +8750,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 274.32 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29d7cf53-d00f-4b6b-aa99-d0b437959bc0")
 		)
@@ -8764,6 +8845,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 220.98 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 220.98 121.92 0)
 			(effects
 				(font
@@ -8861,6 +8951,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 212.09 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 212.09 128.27 0)
 			(effects
 				(font
@@ -9031,6 +9130,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 246.38 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb190c2d-b5a2-4317-857f-91273d22ce73")
 		)
@@ -9115,6 +9223,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 350.52 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 350.52 209.55 0)
 			(effects
 				(font
@@ -9220,6 +9337,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 151.13 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1427f084-11d7-4eb4-83ca-c7c828f0cc9d")
 		)
@@ -9304,6 +9430,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 283.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 283.21 95.25 0)
 			(effects
 				(font
@@ -9476,6 +9611,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 34.29 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "31ce9f53-9f8f-4018-9909-bae8eb1b711c")
 		)
@@ -9621,6 +9765,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 281.94 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "485dfa9d-6966-4e95-b34e-b9edb7339d4d")
 		)
@@ -9718,6 +9871,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e3e8971-636e-49ad-8ed5-f3a6ad51e9b6")
 		)
@@ -9805,6 +9967,15 @@
 			)
 		)
 		(property "Comments" "No idea"
+			(at 68.58 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 68.58 172.72 0)
 			(effects
 				(font
@@ -9957,6 +10128,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 173.99 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8106088-2611-4712-9024-005528f8a14e")
 		)
@@ -10041,6 +10221,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 350.52 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 350.52 118.11 0)
 			(effects
 				(font
@@ -10342,6 +10531,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 36.83 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7ce6cd9a-589e-4bba-9e29-1e65820b1eb8")
 		)
@@ -10502,6 +10700,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 274.32 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0634164e-9df9-4cc5-85ba-ba61f8fdebae")
 		)
@@ -10598,6 +10805,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 160.02 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e62bff45-0870-40b4-8744-caf0cddade15")
 		)
@@ -10682,6 +10898,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 274.32 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 274.32 95.25 0)
 			(effects
 				(font
@@ -10787,6 +11012,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 210.82 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06a5a06a-a61d-4549-9790-57638cc5e248")
 		)
@@ -10884,6 +11118,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 81.28 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6001ae13-e5af-440f-99bb-28384df093b0")
 		)
@@ -10969,6 +11212,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 240.03 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 240.03 109.22 0)
 			(effects
 				(font
@@ -11140,6 +11392,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 242.57 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 242.57 97.79 0)
 			(effects
 				(font
@@ -11440,6 +11701,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 107.95 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "931db24b-4335-40c3-a8d4-5f67b70e08f9")
 		)
@@ -11450,102 +11720,6 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "STATUS_LED1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized_Small")
-		(at 337.82 201.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "573bf48a-a379-4fc0-8959-50100ed4c24a")
-		(property "Reference" "CC_TPA711"
-			(at 337.2739 198.12 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "330uF"
-			(at 340.868 205.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 337.82 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 337.82 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor, small symbol"
-			(at 337.82 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Digikey" ""
-			(at 337.82 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Mouser" "81-GRM32ER60G337ME5K"
-			(at 337.82 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comments" "Unsure, maybe find alternative, must also be polarized???"
-			(at 337.82 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a06b4f87-6b3e-466c-9690-bf131747774c")
-		)
-		(pin "2"
-			(uuid "07caa95b-62fb-4a61-9d5a-1fda8384fa58")
-		)
-		(instances
-			(project "Studienarbeit"
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "CC_TPA711")
 					(unit 1)
 				)
 			)
@@ -11699,6 +11873,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 290.83 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9954c780-86a1-40e6-ad00-19c14f90ae23")
 		)
@@ -11804,7 +11987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 143.51 190.5 0)
 			(effects
 				(font
@@ -11850,6 +12033,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 143.51 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 143.51 190.5 0)
 			(effects
 				(font
@@ -12020,6 +12212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 171.45 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "15f34d05-1c4a-40c5-b6a8-e3780c5b444a")
 		)
@@ -12109,6 +12310,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 229.87 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 229.87 104.14 0)
 			(effects
 				(font
@@ -12332,6 +12542,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 107.95 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 107.95 107.95 0)
 			(effects
 				(font
@@ -12566,6 +12785,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 368.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8442bfd-4a31-4de6-a020-7fdfc8f05fdd")
 		)
@@ -12683,6 +12911,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 238.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b6bc17a-a87d-4b4c-865e-b70170798396")
 		)
@@ -12779,6 +13016,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 144.78 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 144.78 90.17 0)
 			(effects
 				(font
@@ -12884,6 +13130,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 228.6 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b01fc2aa-099c-437d-a3ef-305b8b4d8de3")
 		)
@@ -12968,6 +13223,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 283.21 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 283.21 104.14 0)
 			(effects
 				(font
@@ -13073,6 +13337,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 49.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3b73b02-2847-4c39-9afa-f941f7f97738")
 		)
@@ -13159,6 +13432,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 229.87 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 229.87 90.17 0)
 			(effects
 				(font
@@ -13368,6 +13650,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 387.35 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "134080cc-8118-4c7d-b0d6-cd2297e2e3e6")
 		)
@@ -13463,6 +13754,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 153.67 97.79 0)
 			(effects
 				(font
@@ -13586,6 +13886,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 107.95 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7db7c189-cec0-4e1a-a706-9bfd4d08475a")
 		)
@@ -13673,6 +13982,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 162.56 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 162.56 92.71 0)
 			(effects
 				(font
@@ -13778,6 +14096,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 81.28 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b13dc4b5-195f-44e9-b5a5-70e54c9d50d9")
 		)
@@ -13863,6 +14190,15 @@
 			)
 		)
 		(property "Comments" "Screws? Washers? Do we have to order?"
+			(at 198.12 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 198.12 34.29 0)
 			(effects
 				(font
@@ -14093,6 +14429,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 375.92 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a28bec0-2844-4eb1-93bb-d9ad4082b441")
 		)
@@ -14182,6 +14527,15 @@
 			)
 		)
 		(property "Comments" "0.1uF = 100nF"
+			(at 133.35 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 133.35 182.88 0)
 			(effects
 				(font
@@ -14352,6 +14706,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 212.09 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d47862ce-9d26-405e-8ff6-e85fd8d0f4b5")
 		)
@@ -14441,6 +14804,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 323.85 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 323.85 107.95 0)
 			(effects
 				(font
@@ -14622,6 +14994,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 276.86 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b84c3311-3fdc-4923-b3da-1069ac23b724")
 		)
@@ -14771,6 +15152,112 @@
 			(project ""
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 337.82 201.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f11d759-34ba-4f99-a70c-2015ca823238")
+		(property "Reference" "C_INPUT_TPA3"
+			(at 339.852 200.914 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "10uF"
+			(at 340.36 205.232 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Digikey" ""
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Mouser" "581-KAF31GR71C106KU"
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
+			(at 337.82 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "097a21eb-49ea-4b59-8041-47c671aa5349")
+		)
+		(pin "2"
+			(uuid "68e4e606-82ff-4afe-84bf-70574d0f37ff")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "C_INPUT_TPA3")
 					(unit 1)
 				)
 			)
@@ -14987,6 +15474,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 30.48 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2dd536eb-42aa-4601-b32c-48f2760189cd")
 		)
@@ -15073,6 +15569,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 222.25 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 222.25 90.17 0)
 			(effects
 				(font
@@ -15169,6 +15674,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 345.44 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 345.44 182.88 0)
 			(effects
 				(font
@@ -15535,6 +16049,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 81.28 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b481e8b4-7483-4e8d-b73c-3707d8da8715")
 		)
@@ -15629,6 +16152,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 391.16 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3657a241-57ae-4c62-a6b2-b3faf3a8152f")
 		)
@@ -15672,7 +16204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 140.97 101.6 0)
 			(effects
 				(font
@@ -15718,6 +16250,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 140.97 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 140.97 101.6 0)
 			(effects
 				(font
@@ -15813,6 +16354,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 265.43 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 265.43 121.92 0)
 			(effects
 				(font
@@ -16113,6 +16663,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 210.82 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7d8e1a98-fe11-42eb-92ff-9ef7f963c1a7")
 		)
@@ -16268,6 +16827,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 135.89 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 135.89 218.44 0)
 			(effects
 				(font
@@ -16432,6 +17000,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 228.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7572f772-6bbb-47fe-bbc8-cf6b40916d97")
 		)
@@ -16521,6 +17098,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 369.57 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 369.57 173.99 0)
 			(effects
 				(font
@@ -16626,6 +17212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 245.11 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04c54d0b-4404-4f3a-ab88-84dbe2ffbd99")
 		)
@@ -16709,6 +17304,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 219.71 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 219.71 203.2 0)
 			(effects
 				(font
@@ -16814,6 +17418,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 140.97 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "463328cf-cf10-46ae-a0d6-b2ada8fcab32")
 		)
@@ -16903,6 +17516,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 297.18 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 297.18 193.04 0)
 			(effects
 				(font
@@ -17067,6 +17689,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 220.98 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52aaa395-571d-40ac-8da7-0ca7223e491c")
 		)
@@ -17156,6 +17787,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 285.75 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 285.75 184.15 0)
 			(effects
 				(font
@@ -17258,6 +17898,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 88.9 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5224ef7c-434f-462d-a8d4-206bccae0dd1")
 		)
@@ -17344,6 +17993,15 @@
 			)
 		)
 		(property "Comments" "0.1uF = 100nF"
+			(at 398.78 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 398.78 125.73 0)
 			(effects
 				(font
@@ -17506,6 +18164,15 @@
 			)
 		)
 		(property "Comments" "0.1uF = 100nF"
+			(at 140.97 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 140.97 222.25 0)
 			(effects
 				(font
@@ -17766,6 +18433,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 69.85 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b7bec50-925e-4e9b-a759-7821bb6ac16b")
 		)
@@ -17815,7 +18491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 314.96 130.81 0)
 			(effects
 				(font
@@ -17861,6 +18537,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 314.96 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 314.96 130.81 0)
 			(effects
 				(font
@@ -18031,6 +18716,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 146.05 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f5aef53-a1ed-4271-b4ee-787f7a7f11d3")
 		)
@@ -18128,6 +18822,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 95.25 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "947314df-6d1d-4aaf-aa80-6c9a314a1137")
 		)
@@ -18216,6 +18919,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 125.73 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -18373,6 +19085,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 350.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3f66ccd9-2bbc-420b-b846-e0eff2bb537e")
 		)
@@ -18460,6 +19181,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 361.95 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 361.95 182.88 0)
 			(effects
 				(font
@@ -18565,6 +19295,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 337.82 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1fbc2287-53c5-4779-8519-257e2fb7c46b")
 		)
@@ -18651,6 +19390,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 402.59 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
 			(at 402.59 111.76 0)
 			(effects
 				(font
@@ -18750,6 +19498,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" ""
+			(at 259.08 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fda2bd9c-cd2b-49d0-a82b-d9a396325137")
 		)
@@ -18840,6 +19597,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 358.14 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 358.14 240.03 0)
 			(effects
 				(font
@@ -19010,6 +19776,15 @@
 				(hide yes)
 			)
 		)
+		(property "Double Checked" "x"
+			(at 134.62 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb628528-826a-4f29-896a-4193c7556103")
 		)
@@ -19099,6 +19874,15 @@
 			)
 		)
 		(property "Comments" ""
+			(at 259.08 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
 			(at 259.08 109.22 0)
 			(effects
 				(font

@@ -248,184 +248,6 @@
 				)
 			)
 		)
-		(symbol "Amplifier_Operational:MCP6001-OT"
-			(pin_names
-				(offset 0.127)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -1.27 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "MCP6001-OT"
-				(at -1.27 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "1MHz, Low-Power Op Amp, SOT-23-5"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "single opamp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?23*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MCP6001-OT_0_1"
-				(polyline
-					(pts
-						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at -2.54 -7.62 90)
-					(length 3.81)
-					(name "V-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -2.54 7.62 270)
-					(length 3.81)
-					(name "V+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MCP6001-OT_1_1"
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 2.54 0)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Audio:PCM5102"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2912,43 +2734,15 @@
 				)
 			)
 		)
-		(symbol "MCP6001:MCP6001"
+		(symbol "MCP6001-OT_1"
 			(pin_names
-				(offset 1.016)
+				(offset 0.127)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 5.0854 -5.0854 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "MCP6001"
-				(at 5.0843 -7.6264 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "MCP6001:SOT23-5"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Reference" "U4"
+				(at 4.572 5.842 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2956,7 +2750,34 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Value" "MCP6001-OT"
+				(at 7.366 4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "MCP6001UT:SOT95P270X145-5N"
+				(at -2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1MHz, Low-Power Op Amp, SOT-23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2965,311 +2786,161 @@
 					(hide yes)
 				)
 			)
-			(property "MF" "Universal Power Group"
+			(property "OC_Digikey" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Description_1" "\nGeneral Purpose Amplifier 1 Circuit Rail-to-Rail SOT-23-5\n"
+			(property "OC_Mouser" "579-MCP6001UT-I/OT"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Package" "SOT-753 Universal Power Group"
+			(property "Comments" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Price" "None"
+			(property "Double Checked" "x"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/MCP%206001/Universal+Power+Group/view-part/?ref=snap"
+			(property "ki_keywords" "single opamp"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "MP" "MCP 6001"
+			(property "ki_fp_filters" "SOT?23*"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Availability" "Not in stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/MCP%206001/Universal+Power+Group/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "MCP6001_0_0"
+			(symbol "MCP6001-OT_1_0_1"
 				(polyline
 					(pts
-						(xy -2.54 -5.08) (xy 0 -3.81)
+						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
 					)
 					(stroke
-						(width 0.4064)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 5.08) (xy -2.54 -5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -2.54) (xy -0.635 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 2.54) (xy -0.635 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 3.175) (xy -1.27 1.905)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy 0 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.81) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.81) (xy -2.54 5.08)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.81) (xy 0 5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 0 3.81)
-					)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "V+"
-					(at 1.2709 4.4482 900)
-					(effects
-						(font
-							(size 0.8134 0.8134)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "V-"
-					(at 1.2716 -5.7223 900)
-					(effects
-						(font
-							(size 0.8138 0.8138)
-						)
-						(justify left bottom)
-					)
-				)
-				(pin output line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
+						(type background)
 					)
 				)
 				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
+					(at -2.54 -7.62 90)
+					(length 3.81)
 					(name "V-"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 2.54 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin power_in line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "~"
+					(at -2.54 7.62 270)
+					(length 3.81)
+					(name "V+"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "5"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "MCP6001-OT_1_1_1"
+				(pin input line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -4140,13 +3811,19 @@
 		(at 289.56 193.04)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "41e2ad09-a5c9-431f-aa6b-0b98dc20d22a")
+		(uuid "3ee83f75-907c-4e0d-ba41-aa4ad1a1aeb0")
 	)
 	(junction
 		(at 153.67 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46796bce-be8a-4cb2-a369-4d79f61ae8cc")
+	)
+	(junction
+		(at 236.22 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4762bc94-d821-408c-9828-38127537c331")
 	)
 	(junction
 		(at 364.49 217.17)
@@ -4375,12 +4052,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5a2bfba-3412-4e02-8fbf-16364c74e5fc")
-	)
-	(junction
-		(at 236.22 182.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e5543525-dcd1-4687-9876-a2241ec97529")
 	)
 	(junction
 		(at 228.6 185.42)
@@ -5314,7 +4985,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 195.58) (xy 269.24 195.58)
+			(xy 265.43 195.58) (xy 271.78 195.58)
 		)
 		(stroke
 			(width 0)
@@ -5884,6 +5555,16 @@
 	)
 	(wire
 		(pts
+			(xy 287.02 193.04) (xy 289.56 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d4ac08a-5c04-48ec-b307-be01c1d40d19")
+	)
+	(wire
+		(pts
 			(xy 245.11 182.88) (xy 241.3 182.88)
 		)
 		(stroke
@@ -6144,7 +5825,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 190.5) (xy 269.24 190.5)
+			(xy 265.43 190.5) (xy 271.78 190.5)
 		)
 		(stroke
 			(width 0)
@@ -6990,6 +6671,20 @@
 			)
 		)
 		(uuid "14a3ee08-eaef-41d4-9a8c-5153c9b3c4a9")
+	)
+	(text "TODO:\n\nAdd 3v3 rail for PCM5102 \n\nChange ESP32 I2S Pins \n"
+		(exclude_from_sim no)
+		(at 17.526 103.378 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 60 108 1)
+			)
+			(justify left)
+		)
+		(uuid "3753968b-a507-42ed-8aaa-2dcf7495d829")
 	)
 	(text "LM2940CT"
 		(exclude_from_sim no)
@@ -8013,6 +7708,121 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "RF1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MCP6001-OT_1")
+		(lib_id "Amplifier_Operational:MCP6001-OT")
+		(at 279.4 193.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "07930416-3d9e-4b47-a0f1-01421126dd93")
+		(property "Reference" "U3"
+			(at 283.972 187.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "MCP6001-OT"
+			(at 286.766 188.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MCP6001UT:SOT95P270X145-5N"
+			(at 276.86 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
+			(at 279.4 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1MHz, Low-Power Op Amp, SOT-23-5"
+			(at 279.4 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Digikey" ""
+			(at 279.4 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Mouser" "579-MCP6001UT-I/OT"
+			(at 279.4 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 279.4 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
+			(at 279.4 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fff45ef5-816e-4935-9efd-209754d79fc9")
+		)
+		(pin "1"
+			(uuid "253ccc3b-1853-4b28-abaf-bcd4c27a3ac6")
+		)
+		(pin "5"
+			(uuid "1122e5fe-2071-49e3-bf90-dfb106e2f410")
+		)
+		(pin "4"
+			(uuid "fdbd3ff8-d16c-4038-8b33-9e3f74036d54")
+		)
+		(pin "3"
+			(uuid "c7063cbf-c4e3-44db-8a6a-4233a5fc4452")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -11140,6 +10950,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MCP6001-OT_1")
 		(lib_id "Amplifier_Operational:MCP6001-OT")
 		(at 240.03 109.22 0)
 		(unit 1)
@@ -11165,7 +10976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "MCP6001UT:SOT95P270X145-5N"
 			(at 237.49 114.3 0)
 			(effects
 				(font
@@ -12831,120 +12642,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:MCP6001-OT")
-		(at 238.76 190.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6ed31770-57e3-4549-bae3-e75f3391ea8d")
-		(property "Reference" "U3"
-			(at 243.078 184.912 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "MCP6001-OT"
-			(at 246.634 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 236.22 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
-			(at 238.76 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1MHz, Low-Power Op Amp, SOT-23-5"
-			(at 238.76 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Digikey" ""
-			(at 238.76 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Mouser" "579-MCP6001UT-I/OT"
-			(at 238.76 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comments" ""
-			(at 238.76 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Double Checked" "x"
-			(at 238.76 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0b6bc17a-a87d-4b4c-865e-b70170798396")
-		)
-		(pin "1"
-			(uuid "ffb1db81-39b5-45f0-9839-4ccfaacd6f9c")
-		)
-		(pin "5"
-			(uuid "fba49ecc-9367-4015-b40a-7515297085e3")
-		)
-		(pin "4"
-			(uuid "f1d575f4-7ac5-4be2-85d4-fad07206d56d")
-		)
-		(pin "3"
-			(uuid "2093a34d-7fbf-47ac-827b-4a97f0c6b21c")
-		)
-		(instances
-			(project "Studienarbeit"
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 144.78 90.17 90)
 		(unit 1)
@@ -13146,6 +12843,121 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "TP_INPUTBIAS_AS2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MCP6001-OT_1")
+		(lib_id "Amplifier_Operational:MCP6001-OT")
+		(at 238.76 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7136ca44-684f-4583-8773-6be4a076c241")
+		(property "Reference" "U1"
+			(at 243.332 184.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "MCP6001-OT"
+			(at 246.126 186.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MCP6001UT:SOT95P270X145-5N"
+			(at 236.22 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
+			(at 238.76 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1MHz, Low-Power Op Amp, SOT-23-5"
+			(at 238.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Digikey" ""
+			(at 238.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Mouser" "579-MCP6001UT-I/OT"
+			(at 238.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 238.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" "x"
+			(at 238.76 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "858e2f54-55c7-4239-bcd4-3a0b8c8de409")
+		)
+		(pin "1"
+			(uuid "964dc49c-7a08-4262-81c8-696762eccc68")
+		)
+		(pin "5"
+			(uuid "7abae51e-ac21-45bd-93ab-a94f98fa34d0")
+		)
+		(pin "4"
+			(uuid "01f67f27-6130-4027-a06c-25cae45e9c11")
+		)
+		(pin "3"
+			(uuid "3ee8b2de-f5a8-4449-9d43-261a6bb005ce")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -14828,200 +14640,6 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "TP_Vo-_TPA1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MCP6001:MCP6001")
-		(at 276.86 193.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "95e16a23-cd3f-4fb4-915d-4753b4c34ff1")
-		(property "Reference" "U5"
-			(at 284.734 187.198 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "MCP6001"
-			(at 284.988 189.738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Universal Power Group"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nGeneral Purpose Amplifier 1 Circuit Rail-to-Rail SOT-23-5\n"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-753 Universal Power Group"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MCP%206001/Universal+Power+Group/view-part/?ref=snap"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "MCP 6001"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "Not in stock"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/MCP%206001/Universal+Power+Group/view-part/?ref=eda"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "OC_Digikey" ""
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Mouser" "579-MCP6001UT-I/OT"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comments" ""
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Double Checked" "x"
-			(at 276.86 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b84c3311-3fdc-4923-b3da-1069ac23b724")
-		)
-		(pin "2"
-			(uuid "8a03f433-bf90-4d31-9ead-ee90248e6947")
-		)
-		(pin "3"
-			(uuid "f1496dbe-87e4-4884-8c01-0772700da4f5")
-		)
-		(pin "5"
-			(uuid "c452a8d4-97a7-4043-8335-f723c45a1db3")
-		)
-		(pin "4"
-			(uuid "3000f90d-08ce-4ad7-a722-f75d1c5e9ac0")
-		)
-		(instances
-			(project ""
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "U5")
 					(unit 1)
 				)
 			)

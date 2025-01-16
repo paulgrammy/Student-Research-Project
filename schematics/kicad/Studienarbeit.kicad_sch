@@ -3814,6 +3814,12 @@
 		(uuid "3ee83f75-907c-4e0d-ba41-aa4ad1a1aeb0")
 	)
 	(junction
+		(at 77.47 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44f40f7c-48f9-4f05-a217-d08380f272f9")
+	)
+	(junction
 		(at 153.67 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3862,22 +3868,10 @@
 		(uuid "5221f5e7-88b6-4116-a9a9-77a61ddb06c2")
 	)
 	(junction
-		(at 81.28 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "53095f17-d481-4206-8918-cf946daae9b2")
-	)
-	(junction
 		(at 391.16 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5510293d-8ad5-4b1d-ad7d-f06182a8fffe")
-	)
-	(junction
-		(at 81.28 180.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55a8dd6a-397f-4448-bc15-5c15dce2e339")
 	)
 	(junction
 		(at 290.83 109.22)
@@ -3908,6 +3902,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73a4b853-faea-42e3-97d3-ab3f01430b70")
+	)
+	(junction
+		(at 81.28 162.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "758307be-b105-45dc-8adb-8bd7deea0d5b")
 	)
 	(junction
 		(at 269.24 104.14)
@@ -3974,6 +3974,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95746ffa-b5c3-44bc-bed8-d56f188cfed9")
+	)
+	(junction
+		(at 81.28 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96451cdb-65d1-45c8-8b21-f0cb5b875527")
 	)
 	(junction
 		(at 375.92 182.88)
@@ -4078,12 +4084,6 @@
 		(uuid "f56fed7b-8671-4698-8ed5-49491630a40f")
 	)
 	(junction
-		(at 81.28 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fc8cedee-73e9-48a8-ba63-fca824b32ab9")
-	)
-	(junction
 		(at 375.92 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4118,6 +4118,10 @@
 		(uuid "11a6c139-72ef-4222-9194-795c0a02541a")
 	)
 	(no_connect
+		(at 73.66 190.5)
+		(uuid "1d5c7e68-4e91-4f1f-a9e2-4b98d2f64b5c")
+	)
+	(no_connect
 		(at 73.66 175.26)
 		(uuid "22cc90de-7cba-49ef-8817-fc62fbdb548f")
 	)
@@ -4128,10 +4132,6 @@
 	(no_connect
 		(at 175.26 90.17)
 		(uuid "3a7e0d28-167d-4241-a041-0da01ff8d32e")
-	)
-	(no_connect
-		(at 73.66 162.56)
-		(uuid "3afd5c3d-08de-4fec-982c-c6f10ebc6f79")
 	)
 	(no_connect
 		(at 73.66 172.72)
@@ -4158,10 +4158,6 @@
 		(uuid "660453ad-a27f-4f36-8f00-2d64df8f6543")
 	)
 	(no_connect
-		(at 73.66 152.4)
-		(uuid "73813ca1-46d6-4c60-9086-190b1585ade5")
-	)
-	(no_connect
 		(at 73.66 167.64)
 		(uuid "73c7dd3c-e14d-42f2-8c74-58c5639220af")
 	)
@@ -4172,10 +4168,6 @@
 	(no_connect
 		(at 29.21 187.96)
 		(uuid "8250feec-3ff1-4a28-912d-2479ad1a4749")
-	)
-	(no_connect
-		(at 73.66 185.42)
-		(uuid "8bf07c34-4b1c-45d6-83fb-dc84c8c06361")
 	)
 	(no_connect
 		(at 29.21 157.48)
@@ -4198,6 +4190,10 @@
 		(uuid "9ae47288-df52-4443-ad7a-8868d5fc3a13")
 	)
 	(no_connect
+		(at 73.66 187.96)
+		(uuid "9e96bb09-c646-4dd0-8e61-9c477f9a8d44")
+	)
+	(no_connect
 		(at 29.21 177.8)
 		(uuid "9fbf3ab7-c67c-4428-9169-3dd830bd5fba")
 	)
@@ -4206,8 +4202,16 @@
 		(uuid "aa24a9a0-f86c-4046-a4a1-b8e9b0cf2ef2")
 	)
 	(no_connect
+		(at 73.66 185.42)
+		(uuid "abf48969-436b-4237-8d75-f9249c2e2127")
+	)
+	(no_connect
 		(at 113.03 97.79)
 		(uuid "af9404ae-fff7-4197-a835-3d7232d9466c")
+	)
+	(no_connect
+		(at 73.66 180.34)
+		(uuid "bb08eedd-765e-4151-b59e-41d1dda0d487")
 	)
 	(no_connect
 		(at 29.21 190.5)
@@ -4220,10 +4224,6 @@
 	(no_connect
 		(at 29.21 162.56)
 		(uuid "d9181c9b-f9b1-4a4e-9238-8cd0a624ac91")
-	)
-	(no_connect
-		(at 73.66 157.48)
-		(uuid "e3007869-0b89-4554-a8c4-8e3e4df5e337")
 	)
 	(no_connect
 		(at 29.21 180.34)
@@ -4262,16 +4262,6 @@
 			(type default)
 		)
 		(uuid "0279df00-5664-4d75-9392-a9732d6d0500")
-	)
-	(wire
-		(pts
-			(xy 81.28 180.34) (xy 85.09 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05f21081-4961-4360-a7af-8587bfd104df")
 	)
 	(wire
 		(pts
@@ -4332,16 +4322,6 @@
 			(type default)
 		)
 		(uuid "102ce029-9e65-4f4b-91bd-96d804ba7f76")
-	)
-	(wire
-		(pts
-			(xy 73.66 187.96) (xy 81.28 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10a0ff72-bb25-4cfc-9183-cf95e52de32c")
 	)
 	(wire
 		(pts
@@ -4472,16 +4452,6 @@
 			(type default)
 		)
 		(uuid "20ca6269-69ef-4dcb-af53-74e54dcbfed0")
-	)
-	(wire
-		(pts
-			(xy 73.66 190.5) (xy 81.28 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21745dfe-0577-43f1-92c3-cd47be4da057")
 	)
 	(wire
 		(pts
@@ -5075,16 +5045,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 180.34) (xy 81.28 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68dc7da7-e0ef-4b8e-93ab-8bb24007f74f")
-	)
-	(wire
-		(pts
 			(xy 109.22 95.25) (xy 113.03 95.25)
 		)
 		(stroke
@@ -5525,6 +5485,26 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 162.56) (xy 85.09 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "962e35cb-e4b8-4dad-a7fe-f399b9492090")
+	)
+	(wire
+		(pts
+			(xy 77.47 157.48) (xy 86.36 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a464b9a-52f9-49cc-8692-4ea9efec1536")
+	)
+	(wire
+		(pts
 			(xy 171.45 92.71) (xy 171.45 95.25)
 		)
 		(stroke
@@ -5585,16 +5565,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 187.96) (xy 86.36 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2b6c7ca-4edb-44e8-abd8-bc37bbc99eb3")
-	)
-	(wire
-		(pts
 			(xy 134.62 143.51) (xy 146.05 143.51)
 		)
 		(stroke
@@ -5652,6 +5622,16 @@
 			(type default)
 		)
 		(uuid "a8d91dd5-2d8e-4407-973d-3a864fc42100")
+	)
+	(wire
+		(pts
+			(xy 73.66 162.56) (xy 81.28 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9281d9a-a40e-45fe-ba7f-3f2cd564ebc1")
 	)
 	(wire
 		(pts
@@ -5762,16 +5742,6 @@
 			(type default)
 		)
 		(uuid "b1ad0077-4abf-470d-88b8-8650a3fc1edd")
-	)
-	(wire
-		(pts
-			(xy 81.28 190.5) (xy 86.36 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b219d8fa-01ff-4a5e-8a44-3c254d7f1cb0")
 	)
 	(wire
 		(pts
@@ -6205,6 +6175,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 152.4) (xy 86.36 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e372321e-6b84-4946-9a2f-a5d2746400ca")
+	)
+	(wire
+		(pts
 			(xy 171.45 92.71) (xy 175.26 92.71)
 		)
 		(stroke
@@ -6315,6 +6295,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 152.4) (xy 81.28 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f186921a-b209-4e1c-89ce-d5a5e351c504")
+	)
+	(wire
+		(pts
 			(xy 350.52 123.19) (xy 350.52 125.73)
 		)
 		(stroke
@@ -6332,6 +6322,16 @@
 			(type default)
 		)
 		(uuid "f255fd79-9541-46bc-9ae6-1d9aac8338ec")
+	)
+	(wire
+		(pts
+			(xy 73.66 157.48) (xy 77.47 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3876805-2b1c-4183-b9d3-5446c1876339")
 	)
 	(wire
 		(pts
@@ -6953,7 +6953,7 @@
 		(uuid "60be1c6c-6485-4a8a-973d-dc162a91e0f6")
 	)
 	(label "BCK"
-		(at 85.09 180.34 0)
+		(at 85.09 162.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6961,7 +6961,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "69044159-97df-4333-bff1-d2394675091b")
+		(uuid "66f56672-a273-49a9-86b8-54fd1e0512c8")
 	)
 	(label "DGND"
 		(at 130.81 226.06 180)
@@ -7028,6 +7028,17 @@
 			(justify left bottom)
 		)
 		(uuid "786330c6-5e59-468e-b991-ffe397bddec2")
+	)
+	(label "LRCK"
+		(at 86.36 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7872f6a7-f27a-4d82-8568-e70d5a3e2f1a")
 	)
 	(label "AVDD"
 		(at 156.21 143.51 0)
@@ -7106,6 +7117,17 @@
 		)
 		(uuid "86d94af3-ffdc-4c12-a968-138d55b2addd")
 	)
+	(label "DIN"
+		(at 86.36 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "89c21f77-0817-473f-bea3-4aa22c265f3b")
+	)
 	(label "Filter_OUT"
 		(at 186.69 43.18 270)
 		(fields_autoplaced yes)
@@ -7183,17 +7205,6 @@
 		)
 		(uuid "ad2d120f-921d-43fe-9122-ba0e76bc7b34")
 	)
-	(label "LRCK"
-		(at 86.36 190.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9c20429-d733-4439-8b26-654d307e2a0b")
-	)
 	(label "OUTDACL"
 		(at 175.26 90.17 0)
 		(fields_autoplaced yes)
@@ -7259,17 +7270,6 @@
 			(justify right bottom)
 		)
 		(uuid "d6b5b13b-4727-46ee-8af6-a03121f6f18a")
-	)
-	(label "DIN"
-		(at 86.36 187.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e1d82ed5-9240-4b5d-9018-5901877d6faf")
 	)
 	(label "BUFFEROUT"
 		(at 332.74 182.88 180)
@@ -7605,6 +7605,109 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 81.28 162.56 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "063a5e85-ec9f-4f19-8db3-0301cde5a22f")
+		(property "Reference" "TP_BCK2"
+			(at 85.598 168.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 78.74 164.5921 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 76.2 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Digikey" ""
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Mouser" "X"
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
+			(at 81.28 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9b2fda4-b80d-4bf3-84ae-a203f94d3439")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "TP_BCK2")
 					(unit 1)
 				)
 			)
@@ -8307,6 +8410,109 @@
 			(project ""
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 81.28 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1682cdde-6ffc-4852-bc4a-f84dcf49224f")
+		(property "Reference" "TP_LRCK2"
+			(at 77.216 146.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 83.82 150.3679 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 86.36 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 81.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Digikey" ""
+			(at 81.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Mouser" "X"
+			(at 81.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 81.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
+			(at 81.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1768666b-2481-40b5-b2a3-197c6d9a3c1d")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "TP_LRCK2")
 					(unit 1)
 				)
 			)
@@ -10841,109 +11047,6 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "C_GND_AMPSTAGE2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 81.28 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "49a76066-931b-44b6-81b3-908465d019f1")
-		(property "Reference" "TP_BCK1"
-			(at 77.724 175.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 83.82 178.3079 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
-			(at 86.36 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 81.28 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Digikey" ""
-			(at 81.28 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Mouser" "X"
-			(at 81.28 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comments" ""
-			(at 81.28 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Double Checked" ""
-			(at 81.28 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6001ae13-e5af-440f-99bb-28384df093b0")
-		)
-		(instances
-			(project "Studienarbeit"
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "TP_BCK1")
 					(unit 1)
 				)
 			)
@@ -13723,6 +13826,109 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 77.47 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "83a1a560-cdde-4986-84e5-cc53d9a2e410")
+		(property "Reference" "TP_DIN2"
+			(at 78.74 154.432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 80.01 155.4479 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
+			(at 82.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 82.55 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 77.47 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Digikey" ""
+			(at 77.47 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OC_Mouser" "X"
+			(at 77.47 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Comments" ""
+			(at 77.47 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Double Checked" ""
+			(at 77.47 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f576aded-6746-4e31-b381-d7e3fd7bbb8b")
+		)
+		(instances
+			(project "Studienarbeit"
+				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
+					(reference "TP_DIN2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 162.56 92.71 90)
 		(unit 1)
@@ -13821,109 +14027,6 @@
 			(project ""
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "ROUTDACR1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 81.28 190.5 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "850b20d4-015c-40bd-bded-87cfcfe3f22d")
-		(property "Reference" "TP_LRCK1"
-			(at 85.344 196.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 78.74 192.5321 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
-			(at 76.2 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 81.28 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Digikey" ""
-			(at 81.28 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Mouser" "X"
-			(at 81.28 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comments" ""
-			(at 81.28 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Double Checked" ""
-			(at 81.28 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b13dc4b5-195f-44e9-b5a5-70e54c9d50d9")
-		)
-		(instances
-			(project "Studienarbeit"
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "TP_LRCK1")
 					(unit 1)
 				)
 			)
@@ -15580,109 +15683,6 @@
 			(project "Studienarbeit"
 				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
 					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 81.28 187.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b1a37e34-a04e-41fb-b15a-42a5a7c86762")
-		(property "Reference" "TP_DIN1"
-			(at 77.978 182.626 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 83.82 185.9279 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
-			(at 86.36 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 81.28 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Digikey" ""
-			(at 81.28 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OC_Mouser" "X"
-			(at 81.28 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comments" ""
-			(at 81.28 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Double Checked" ""
-			(at 81.28 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b481e8b4-7483-4e8d-b73c-3707d8da8715")
-		)
-		(instances
-			(project "Studienarbeit"
-				(path "/e1f471d3-f850-4433-b54a-c7e6f7857097"
-					(reference "TP_DIN1")
 					(unit 1)
 				)
 			)

@@ -8906,7 +8906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSOT-23-5_RIT"
+		(property "Footprint" "RT9080-33GJ5:TSOT-23-5_RIT-L"
 			(at 177.8 25.4 0)
 			(effects
 				(font

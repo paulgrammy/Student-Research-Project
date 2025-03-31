@@ -3,7 +3,7 @@ Bluetooth signal receiver with filter stage and AUX/Speaker output.
 
 UseCase description: 
 
-The box shall process analog converted audio signal coming from a Bluetooth-capable ESP32 board. The user shall connect the box at the input and output of any given filter and shall have the option to hear the filtered and unfiltered audio signals coming out with minimal noise and distortion. The audio shall be received through bluetooth via phone once the box has been supplied with current.
+The PCB shall process analog converted audio signal coming from a Bluetooth-capable ESP32 board. The user shall connect the box at the input and output of any given filter and shall have the option to hear the filtered and unfiltered audio signals coming out with minimal noise and distortion. The audio shall be received through bluetooth via phone once the box has been supplied with current.
 
 Used platforms: 
 
@@ -25,3 +25,10 @@ https://github.com/YetAnotherElectronicsChannel/ESP32_Bluetooth_Audio_Receiver
 Books and Papers:
 
 https://web.mit.edu/6.101/www/reference/op_amps_everyone.pdf
+
+End result:
+![PCB 3D View](https://github.com/user-attachments/assets/e8ce52a5-6ba1-4353-9602-ee014ab92bfc)
+
+Conclusions: 
+The board works with minimal distortion up to the OpAmps single supply limits, offering almost no phase lag.
+Some layout optimizations can be carried out to lower the noise floor and make implementation in the labs easier.

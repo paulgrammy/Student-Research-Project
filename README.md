@@ -3,9 +3,11 @@ Bluetooth signal receiver with filter stage and AUX/Speaker output.
 
 UseCase description: 
 
-The PCB shall process analog converted audio signal coming from a Bluetooth-capable ESP32 board. The user shall connect the box at the input and output of any given filter and shall have the option to hear the filtered and unfiltered audio signals coming out with minimal noise and distortion. The audio shall be received through bluetooth via phone once the box has been supplied with current.
+This project seeks to help students more easily understand the effects of filters on electric signals by using sound. Since Music and/or audio is composed of frequencies across a spectrum (20Hz to 20kHz), one can hear what an LPF/HPF would do when fed audio signals. In my Student-Research project work, I try to design a PCB that shall overline this use case.
 
-Used platforms: 
+The PCB shall process analog converted audio signal coming from a Bluetooth-capable ESP32 board. The user shall connect the board at the input and output of any given filter and shall have the option to hear the filtered and unfiltered audio signals coming out with minimal noise and distortion.
+
+Used platforms and ICs:
 
 - ESP32 FireBeetle board:
     https://wiki.dfrobot.com/FireBeetle_Board_ESP32_E_SKU_DFR0654
@@ -16,7 +18,7 @@ Used platforms:
 - TPA711 Power AMP:
     https://www.ti.com/product/TPA711
 
-Potential solutions for the BluetoothRx interface:
+Potential software solutions for the BluetoothRx interface:
 
 https://github.com/pschatzmann/ESP32-A2DP
 

@@ -3,7 +3,7 @@ Bluetooth signal receiver with filter stage and AUX/Speaker output.
 
 UseCase description: 
 
-This project seeks to help students more easily understand the effects of filters on electric signals by using sound. Since Music and/or audio is composed of frequencies across a spectrum (20Hz to 20kHz), one can hear what an LPF/HPF would do when fed audio signals. In my Student-Research project work, I try to design a PCB that shall overline this use case.
+This project seeks to help students more easily understand the effects of filters on electric signals by using sound. Since Music and/or audio is composed of frequencies across a spectrum (20Hz to 20kHz), one can hear what an Low/High Pass filter would do when fed audio signals. In my Student-Research project work, I try to design a PCB that shall overline this use case.
 
 The PCB shall process analog converted audio signal coming from a Bluetooth-capable ESP32 board. The user shall connect the board at the input and output of any given filter and shall have the option to hear the filtered and unfiltered audio signals coming out with minimal noise and distortion.
 
